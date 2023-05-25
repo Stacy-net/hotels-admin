@@ -2,7 +2,7 @@
 Blog website with admin panel | PHP
 
 
-INSTALLATION
+# INSTALLATION
 
 1. Install XAMPP or WAMPP.
 
@@ -30,7 +30,7 @@ INSTALLATION
 
 13. admin login details username = Greg Greg  and Password = 111111.
 
-Screenshots
+# Screenshots
 
 Login:
 
