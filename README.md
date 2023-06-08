@@ -1,6 +1,8 @@
 # hotels-admin
 Blog website with admin panel | PHP
 
+hosting - http://hotels-admin.rf.gd/
+
 
 # Installation
 
